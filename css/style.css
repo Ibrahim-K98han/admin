@@ -139,7 +139,7 @@ body{
 .box-8, .box-4{
 	width: 1000px;
 	background-color: #272c4a;
-	height: 500px;
+	height: 680px;
 	
 }
 .nav2{
@@ -157,7 +157,7 @@ table {
 }
 td, th {
   text-align: left;
-  padding:15px;
+  padding:10px;
   color: #ddd;
   border-bottom: 1px solid #81818140;
 }
